@@ -1,6 +1,6 @@
 FROM openjdk:17
 
-MAINTAINER <Ashok Bollapalli>
+MAINTAINER <Ashok>
 
 COPY target/products_api.jar  /usr/app/
 
