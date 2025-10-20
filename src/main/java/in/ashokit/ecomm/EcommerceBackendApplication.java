@@ -15,6 +15,7 @@ public class EcommerceBackendApplication {
 
 		int k=10;
 		boolean status=false;
+		int a=10;
 	}
 
 }
