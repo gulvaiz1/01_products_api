@@ -11,6 +11,7 @@ public class EcommerceBackendApplication {
 		int i=10;
 		int j=10;
 		String name="Ashokit";
+		int k=10;
 	}
 
 }
