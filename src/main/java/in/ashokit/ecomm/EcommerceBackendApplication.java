@@ -16,4 +16,9 @@ public class EcommerceBackendApplication {
 
 	}
 
+	//JIRA-101
+	public void m1(){
+		int i=10;
+		int j=20;
+	}
 }
